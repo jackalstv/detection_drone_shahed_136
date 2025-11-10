@@ -1,0 +1,20 @@
+# Vidéos
+*.mp4
+*.avi
+
+# Dataset
+Military-Units-*/
+dataset/
+
+# Modèles lourds
+runs/
+weights/
+
+# Environnement
+venv/
+__pycache__/
+*.pyc
+
+# Temporaires
+*.log
+temp/
